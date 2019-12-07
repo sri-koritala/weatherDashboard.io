@@ -1,0 +1,24 @@
+#head {
+    font-weight: bolder;
+    text-align: center;
+    color: white;
+    background-color: lightslategrey;
+    height: 70px;
+    padding-top: 10px;
+
+}
+
+.search {
+
+    font-weight: bolder;
+    font-size: large;
+  
+}
+
+.inputText{
+
+    height: 10%;
+    margin-left:20px;
+
+}
+
