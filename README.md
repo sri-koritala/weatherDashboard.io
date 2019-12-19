@@ -6,7 +6,7 @@ A user can enter a city name in the search area provided and search for the pres
 
 (./Assets/SearchCity.PNG)
 
-The dashboard will display the folowing data under current weather conditions:
+The dashboard will display the following data under current weather conditions:
 
   * City
 
